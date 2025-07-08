@@ -1,20 +1,20 @@
 # Hi there! 👋 I'm Rifan Muhammad Hidayat
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D7DD2&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Problem+Solver;3%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D7DD2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Problem+Solver;3%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Amazing+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/rifanmh">
+  <a href="https://github.com/rifanmuhammadhidayat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/rifanmh">
+  <a href="https://www.linkedin.com/in/rifan-muhammad-hidayat">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rifanmh@email.com">
+  <a href="mailto:rifanmuhammadhidayat287@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://rifanmh.dev">
+  <a href="https://rifan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -23,10 +23,9 @@
 
 ## 🚀 About Me
 
-> **Frontend Developer** dengan **3+ tahun pengalaman** dalam pengembangan aplikasi web modern. Spesialisasi dalam **React.js**, **Next.js**, dan **TypeScript**. Terbukti mampu menangani proyek real-world dari startup hingga enterprise, dengan track record menyelesaikan sistem produksi yang digunakan ribuan pengguna.
+> **Fullstack Developer** dengan **3+ tahun pengalaman** dalam pengembangan aplikasi web modern. Spesialisasi dalam **React.js**, **Next.js**, dan **TypeScript**. Terbukti mampu menangani proyek real-world dari startup hingga enterprise, dengan track record menyelesaikan sistem produksi.
 
 ### 🎯 **Quick Facts**
-- 🏆 **Cumlaude Graduate** - D3 Rekayasa Perangkat Lunak (IPK: 3.71)
 - 💼 **Professional Experience** - 1 tahun magang di 2 perusahaan teknologi
 - 🌟 **Real Impact** - Sistem saya digunakan aktif oleh end-users
 - 📚 **6+ Dicoding Certifications** - Continuous learner
@@ -37,8 +36,8 @@
 ## 💼 Professional Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifanmh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifanmh&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifanmuhammadhidayat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifanmuhammadhidayat&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 🏢 **Current Role**
@@ -85,7 +84,7 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifanmh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifanmuhammadhidayat&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ### 🏭 **Meiwa Mold - Factory Production System**
@@ -125,7 +124,7 @@
 ## 📊 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanmh&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA657" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanmuhammadhidayat&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA657" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -159,10 +158,10 @@
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifanmh&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rifanmuhammadhidayat&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophy Stats"/>
 </div>
 
-- 🎓 **Cumlaude Graduate** - D3 Rekayasa Perangkat Lunak (IPK: 3.71)
+
 - 🏆 **6+ Professional Certifications** - Dicoding Academy
 - 💼 **Real-World Impact** - Systems used by thousands of users
 - 🌟 **Quick Learner** - Mastered new tech stacks in tight deadlines
@@ -193,19 +192,19 @@
   <h3>Let's build something amazing together! 🚀</h3>
   
   <p>
-    <strong>🔥 Open for opportunities:</strong> Frontend Developer roles, React/Next.js projects, or challenging web development tasks
+    <strong>🔥 Open for opportunities:</strong> Fullstack Developer roles, React/Next.js projects, or challenging web development tasks
   </p>
   
   <p>
-    <strong>📧 Email:</strong> rifanmh@email.com<br>
+    <strong>📧 Email:</strong> rifanmuhammadhidayat287@gmail.com<br>
     <strong>📱 WhatsApp:</strong> +62 878-3279-9272<br>
-    <strong>📍 Location:</strong> Cilacap, Indonesia (Remote-friendly)
+    <strong>📍 Location:</strong> Jakarta, Indonesia (Remote-friendly)
   </p>
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=rifanmh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rifanmh?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rifanmuhammadhidayat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rifanmuhammadhidayat?label=Followers&style=social" alt="GitHub Followers" />
   
 </div>
 
